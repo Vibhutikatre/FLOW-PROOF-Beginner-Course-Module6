@@ -1,6 +1,6 @@
 # FLOW-PROOF-Beginner-Course-Module6
 
- In the FLOW PROOF ( Beginner Course ) of the Metacrafters, from the previous modules i have gained sufficient knowledge about how to create a smart contract using cadence language and in this particular 6th module also I have learned cleaarly about deploying a smart contract on the Flow for minting any NFT, then how to deposit it and then how to see its metadata.
+ In the FLOW PROOF ( Beginner Course ) of the Metacrafters, here in this course from the previous modules i have gained sufficient knowledge about how to create a smart contract using cadence language and in this particular 6th module also I have learned cleaarly about deploying a smart contract on the Flow for minting any NFT, then how to deposit it and then how to see its metadata.
 I learned about how to deploy a NFT smart contract named cryptopoops where after deploying i was able to send it to another account and see its metadata.All this was done in the cadence language on Flow chain. 
 
 ### Executing program
